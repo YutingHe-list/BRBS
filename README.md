@@ -8,7 +8,7 @@ BRBS address the task of few-shot medical image segmentation (MIS) with a novel 
 <p align="center"><img width="80%" src="fig/global.png" /></p>
 
 ## Paper
-This repository provides the official PyTorch and MindSpore implementation of PC-Reg-RT in the following papers:
+This repository provides the official PyTorch and MindSpore implementation of BRBS in the following papers:
 
 **Learning Better Registration to Learn Better Few-Shot Medical Image Segmentation: Authenticity, Diversity, and Robustness** <br/> 
 [Yuting He](http://19951124.academic.site/?lang=en), [Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), Rongjun Ge, Xiaoming Qi, Yang Chen, Jiasong Wu,  Jean-Louis Coatrieux,  [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php) <br/>
