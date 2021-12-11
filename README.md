@@ -5,7 +5,7 @@ paradigm. To cope with the limitations of lack of diversity, authenticity, and r
 state-of-the-art performance in few-shot MIS tasks, and will provide a powerful few-shot benchmark for the field of medical image and efficiently reduce the costs of medical image research.
 
 
-<p align="center"><img width="100%" src="fig/detil.png" /></p>
+<p align="center"><img width="100%" src="fig/global.png" /></p>
 
 ## Paper
 This repository provides the official PyTorch and MindSpore implementation of PC-Reg-RT in the following papers:
