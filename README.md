@@ -15,7 +15,8 @@ This repository provides the official PyTorch and MindSpore implementation of PC
 Southeast University <br/>
 
 **This paper is under review, and the complete code will be opened after this paper is published.**
-<font color=#A52A2A size=4 >Markdwon测试</font>
+
+<font color=red>Markdwon测试</font>
 
 ## Available implementation
 - [PyTorch/](https://github.com/YutingHe-list/PC-Reg-RT/tree/main/tensorflow)
