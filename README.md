@@ -1,11 +1,9 @@
 # BRBS! Learning Better Registration to Learn Better Few-Shot Medical Image Segmentation: Authenticity, Diversity, and Robustness
 
-We address the task of few-shot medical image segmentation (MIS) with a novel proposed framework based on the learning registration to learn segmentation (LRLS)
-paradigm. To cope with the limitations of lack of diversity, authenticity, and robustness in the existing LRLS frameworks, we propose the Better Registration Better Segmentation (BRBS) framework with three main contributions that are experimentally shown to have substantial practical merit. Without any bells and whistles, our approach achieves a new
-state-of-the-art performance in few-shot MIS tasks, and will provide a powerful few-shot benchmark for the field of medical image and efficiently reduce the costs of medical image research.
+BRBS address the task of few-shot medical image segmentation (MIS) with a novel proposed framework based on the learning registration to learn segmentation (LRLS) paradigm. To cope with the limitations of lack of diversity, authenticity, and robustness in the existing LRLS frameworks, the BRBS framework utilizes the complementary between the registration ans segmentation, and makes three main contributions that are experimentally shown to have substantial practical merit. Without any bells and whistles, our approach achieves a new state-of-the-art performance in few-shot MIS tasks, and will provide a powerful few-shot benchmark for the field of medical image and efficiently reduce the costs of medical image research.
 
 
-<p align="center"><img width="100%" src="fig/global.png" /></p>
+<p align="center"><img width="80%" src="fig/global.png" /></p>
 
 ## Paper
 This repository provides the official PyTorch and MindSpore implementation of PC-Reg-RT in the following papers:
