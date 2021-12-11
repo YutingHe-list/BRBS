@@ -14,7 +14,7 @@ Southeast University <br/>
 
 **This paper is under review, and the complete code will be opened after this paper is published.**
 
-## Available implementation
+## Official implementation
 - [PyTorch/](https://github.com/YutingHe-list/BRBS/tree/main/pytorch)
 - [MindSpore/](https://github.com/YutingHe-list/BRBS/tree/main/mindspore)
 
