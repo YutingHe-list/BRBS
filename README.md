@@ -1,6 +1,6 @@
 # BRBS! Learning Better Registration to Learn Better Few-Shot Medical Image Segmentation: Authenticity, Diversity, and Robustness
 
-[NOTE!!]**As the paper is in the review stage, the code will be gradually opened.**
+[NOTE!!]**The code will be gradually opened, and be completely opened after this paper is published.**
 
 BRBS address the task of few-shot medical image segmentation (MIS) with a novel proposed framework based on the learning registration to learn segmentation (LRLS) paradigm. To cope with the limitations of lack of diversity, authenticity, and robustness in the existing LRLS frameworks, the BRBS framework utilizes the complementary between the registration ans segmentation, and makes three main contributions that are experimentally shown to have substantial practical merit. Without any bells and whistles, our approach achieves a new state-of-the-art performance in few-shot MIS tasks, and will provide a powerful few-shot benchmark for the field of medical image and efficiently reduce the costs of medical image research.
 
