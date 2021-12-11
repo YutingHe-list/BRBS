@@ -14,9 +14,9 @@ This repository provides the official PyTorch and MindSpore implementation of PC
 [Yuting He](http://19951124.academic.site/?lang=en), [Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), Rongjun Ge, Xiaoming Qi, Yaolei Qi, [Shuo Li*](http://www.digitalimaginggroup.ca/members/shuo.php) <br/>
 Southeast University <br/>
 
-**This paper is under review, and the complete code will be opened after this paper is published.**
 
-<font color=red>Markdwon测试</font>
+
+<font color=red>**This paper is under review, and the complete code will be opened after this paper is published.**</font>
 
 ## Available implementation
 - [PyTorch/](https://github.com/YutingHe-list/PC-Reg-RT/tree/main/tensorflow)
