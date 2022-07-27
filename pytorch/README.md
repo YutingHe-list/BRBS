@@ -1,3 +1,3 @@
-# Official PyTorch Implementation
+# BRBS - Official PyTorch Implementation
 
-**This is the official PyTorch implementation of BRBS, the code will be opened when the paper is published.**
+We provide the official PyTorch implementation of training BRBS in the following paper: 
