@@ -17,6 +17,19 @@ This repository provides the official PyTorch and MindSpore implementation of BR
 Southeast University <br/>
 **IEEE Transactions on Neural Networks and Learning Systems**<br/>
 
+## Citation
+If you use this code or use our pre-trained weights for your research, please cite our papers:
+```
+@ARTICLE{9842340,
+  author={He, Yuting and Ge, Rongjun and Qi, Xiaoming and Chen, Yang and Wu, Jiasong and Coatrieux, Jean-Louis and Yang, Guanyu and Li, Shuo},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Learning Better Registration to Learn Better Few-Shot Medical Image Segmentation: Authenticity, Diversity, and Robustness}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TNNLS.2022.3190452}}
+```
 
 ## Official implementation
 - [PyTorch/](https://github.com/YutingHe-list/BRBS/tree/main/pytorch)
